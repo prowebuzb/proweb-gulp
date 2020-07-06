@@ -1,0 +1,25 @@
+{
+  "name": "gulp-proweb",
+  "version": "1.0.0",
+  "description": "proweb-gulp is a module that helps you quickly create gulp. proweb-gulp это модуль, который поможет вам быстро создать gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prowebuzb/proweb-gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp full",
+    "proweb",
+    "proweb gulp"
+  ],
+  "author": "proweb Web Programmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prowebuzb/proweb-gulp/issues"
+  },
+  "homepage": "https://github.com/prowebuzb/proweb-gulp#readme"
+}

@@ -1,0 +1,43 @@
+{
+  "_from": "proweb-gulp",
+  "_id": "proweb-gulp@1.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-7kTv6MIKGZKF0q4d7DmdFtoBN6TkwGjufC9gEFG8h5uLVDWfMn67EvQGo9PifD6JjVKs3A3he6uLpS2bHUGuvw==",
+  "_location": "/proweb-gulp",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "proweb-gulp",
+    "name": "proweb-gulp",
+    "escapedName": "proweb-gulp",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/proweb-gulp/-/proweb-gulp-1.0.8.tgz",
+  "_shasum": "06db632b829124d16749117c05069ea837a1a35c",
+  "_spec": "proweb-gulp",
+  "_where": "D:\\gulp-plagin",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "proweb-gulp is a module that helps you quickly create gulp",
+  "keywords": [
+    "gulp",
+    "gulp full",
+    "proweb",
+    "proweb gulp"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "proweb-gulp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.8"
+}
